@@ -1,4 +1,6 @@
-# TwiterBot
+# TwitterBot
+
+TwitterBot is under developemt and not feaute complete as of 3/1/2016. CHeck back soon!
 
 TODO: Write describe.
 
@@ -12,7 +14,7 @@ TODO: Write usage instructions.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on [GitHub](https://github.com/VictorSK/dnslookup). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on [GitHub](https://github.com/VictorSK/twitterbot). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
